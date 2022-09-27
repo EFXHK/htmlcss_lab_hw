@@ -1,0 +1,19 @@
+body {
+    margin: 0;
+    font-family: sans-serif;
+}
+
+body > header {
+    padding: 16px;
+    background-color: dodgerblue;
+    color: white;
+}
+
+body > header > h1 > nav > ul > li {
+    color: white;
+}
+
+img {
+        width: 150px;
+        height: auto;
+    }
